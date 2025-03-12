@@ -28,6 +28,4 @@ The harmonization process typically involves:
 ## Contributing
 Contributions are welcome! Please open issues or submit pull requests to enhance the methodology, add new features, or report bugs.
 
-## Contact
-For questions or further information, please contact [Your Name] at [Your Email].
 
